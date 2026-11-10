@@ -1,2 +1,2 @@
-# mulheres_ia_fernando
-sites das mulheres na tecnologia com ia
+# mulheres_tecnologia
+Site para ser finalizado pelos estudantes. 

@@ -1,0 +1,58 @@
+body { 
+    background-color: red;
+    font-size: 16px;
+}
+
+.cabecalho{
+    background-color: black;
+    color: whitesmoke;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 22px;
+    padding: 20px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    gap: 30%;
+}
+
+#titulo {
+
+}
+
+p {
+    
+}
+
+.imgcentro {
+
+}
+
+
+ul{
+    font-size: 16px;
+}
+
+li{
+    display: inline-block;
+   
+}
+
+li a{
+    font-size: 50px;
+
+}
+
+button{
+    font-size: 16px;
+    color: rgb(255, 0, 132);
+}
+
+footer{
+     position: fixed;
+     bottom: 0;
+     background-color: yellow;
+     font-size: 30px;
+     width: 100%;
+     text-align: center;
+}
